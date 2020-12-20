@@ -1,0 +1,11 @@
+C:\Users\Zver\source\repos\Algorithm_Project\Algorithm_Project\bin\Release\Algorithm_Project.exe.config
+C:\Users\Zver\source\repos\Algorithm_Project\Algorithm_Project\bin\Release\Algorithm_Project.exe
+C:\Users\Zver\source\repos\Algorithm_Project\Algorithm_Project\bin\Release\Algorithm_Project.pdb
+C:\Users\Zver\source\repos\Algorithm_Project\Algorithm_Project\obj\Release\Algorithm_Project.csprojAssemblyReference.cache
+C:\Users\Zver\source\repos\Algorithm_Project\Algorithm_Project\obj\Release\Algorithm_Project.MainForm.resources
+C:\Users\Zver\source\repos\Algorithm_Project\Algorithm_Project\obj\Release\Algorithm_Project.Properties.Resources.resources
+C:\Users\Zver\source\repos\Algorithm_Project\Algorithm_Project\obj\Release\Algorithm_Project.Visualization.resources
+C:\Users\Zver\source\repos\Algorithm_Project\Algorithm_Project\obj\Release\Algorithm_Project.csproj.GenerateResource.cache
+C:\Users\Zver\source\repos\Algorithm_Project\Algorithm_Project\obj\Release\Algorithm_Project.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\Algorithm_Project\Algorithm_Project\obj\Release\Algorithm_Project.exe
+C:\Users\Zver\source\repos\Algorithm_Project\Algorithm_Project\obj\Release\Algorithm_Project.pdb
